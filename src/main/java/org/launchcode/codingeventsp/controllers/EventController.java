@@ -18,7 +18,7 @@ public class EventController {
         events.add("Code With Pride");
         events.add("Strange Loop");
         events.add("Apple WWDC");
-        events.add("SpringOne Platform");
+        events.add("SpringOne Platfor");
         model.addAttribute("events", events);
         return "events/index";
     }
